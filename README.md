@@ -11,3 +11,7 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 * Keep a positive outlook
 - When you're struggling, either take a break or switch to a different task for a while
 * Always look for area's you can improve in
+
+
+### Table of Contents
+[Reading Notes](markdown.md)
