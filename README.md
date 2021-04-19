@@ -15,3 +15,4 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 
 ### Table of Contents
 [Reading Notes](markdown.md)
+[Read 01 assignment](learn-markdown.md)
