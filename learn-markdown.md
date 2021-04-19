@@ -11,5 +11,7 @@ With Markdown you can:
 
 Some things you may see on this page are:
 - [x] Stylized font
-- [ ] Lists
-- [ ] 
+- [x] Lists
+- [ ] Hyperlinks
+- [x] Emojis
+- [ ] Images
