@@ -1,1 +1,9 @@
-Markdown is a simpler way to format stylize text on the web, making words **bold,** *italic,* or even ~~crossed out~~, adding images, and also creating lists.
+Markdown is a simpler way to format and stylize text on the web. 
+
+With Markdown you can:
+- Create Lists
+- Stylize Text including
+  -**bold**
+  -*italic*
+  -***bold and italic***
+  -~~strike through~~
