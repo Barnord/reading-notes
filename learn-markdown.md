@@ -9,7 +9,7 @@ With Markdown you can:
   1. ~~strike through~~
 -Use Emoji's :+1:
 
-On this page already you should see
-- [x]
-- [ ]
-- [ ]
+Some things you may see on this page are:
+- [x] Stylized font
+- [ ] Lists
+- [ ] 
