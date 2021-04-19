@@ -7,3 +7,9 @@ With Markdown you can:
   1. *italic*
   1. ***bold and italic***
   1. ~~strike through~~
+-Use Emoji's :+1:
+
+On this page already you should see
+- [ ]
+- [ ]
+- [ ]
