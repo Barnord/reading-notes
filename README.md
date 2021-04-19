@@ -4,9 +4,9 @@ Hello, me Ben. This my page for learning-notes.
 
 I want brain work good, me think these:
 
--Happy Outlook Have
--Be Google Master
--Use not Google for Learn Good
+*Happy Outlook Have
+*Be Google Master
+*Use not Google for Learn Good
 
 ## Heading 2
 
