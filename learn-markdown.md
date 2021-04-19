@@ -10,6 +10,6 @@ With Markdown you can:
 -Use Emoji's :+1:
 
 On this page already you should see
-- [ ]
+- [x]
 - [ ]
 - [ ]
