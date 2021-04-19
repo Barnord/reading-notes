@@ -1,6 +1,6 @@
 # Learning Notes
 
-Hello, my name is Ben Arno, and this is where I will be keeping some notes for my code fellows bootcamps. You can find my Github Portfolio [here](https://github.com/Barnord)
+Hello, my name is Ben Arno, and this is where I will be keeping some notes for my code fellows bootcamps. You can find my Github Portfolio [here](https://github.com/Barnord).
 
 ### Growth Mindset
 
