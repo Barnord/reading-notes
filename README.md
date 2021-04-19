@@ -2,18 +2,10 @@
 
 Hello, me Ben. This my page for learning-notes.
 
-I want brain work good, me think these:
+### Growth Mindset
 
-*Happy Outlook Have
-*Be Google Master
-*Use not Google for Learn Good
+To me the Growth Mindset appears to be largely letting go of negative emotions that hold you back. When you're frustrated, take a quick break to cool off. When you're jealous of someone else's success or accomplishments, think instead of how your skillsets could potentially complement each other.
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Yo dawg there's a sixth heading
+* Keep a positive outlook
+- When you're struggling, either take a break or switch to a different task for a while
+* Always look for area's you can improve in
