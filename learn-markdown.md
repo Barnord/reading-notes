@@ -7,7 +7,7 @@ With Markdown you can:
   1. *italic*
   1. ***bold and italic***
   1. ~~strike through~~
--Use Emoji's :+1:
+- Use Emoji's :+1:
 
 Some things you may see on this page are:
 - [x] Stylized font
