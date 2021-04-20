@@ -20,3 +20,8 @@ A local Git repo has 3 components
 2. Index
 3. Head
 
+### Saving Changes
+Everything in the working directory is iehter tracked or untracked, tracked files were part of the most recent snapshot by git, they can be edited, rolled back, or staged. Untracked files weren't in the last snapshot and are not currently in the staging area. After cloning a repo all files have the tracked status and are unmodified.
+
+### Life Cycle of File Status
+![This](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
