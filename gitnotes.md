@@ -24,4 +24,21 @@ A local Git repo has 3 components
 Everything in the working directory is iehter tracked or untracked, tracked files were part of the most recent snapshot by git, they can be edited, rolled back, or staged. Untracked files weren't in the last snapshot and are not currently in the staging area. After cloning a repo all files have the tracked status and are unmodified.
 
 ### Life Cycle of File Status
+Editing a file marks it as modified, because its been changed since the last commit, then add stages the file so you can commit it.
 ![This](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+Where the files are in this process seems to be observable with:
+```
+git status
+```
+
+### Tracking and Staging a New File
+```
+git add filename
+```
+Tracks filename
+```
+git add *
+```
+Tracks all files in the repo
+These commands set files to tracked, and stages them for committing.
+Using ```git status``` gives info on changes to be committed on tracked files.
