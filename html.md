@@ -1,6 +1,7 @@
 # HTML
 
 ```
+<!DOCTYPE html>
 <html>
     <head>
         <title>This is the title of the web page, appearing as the name in the tab on your browser</title>
@@ -30,7 +31,7 @@ Try to design around what you think people visiting your site will want.
   - product/service
   - what makes you unique
 
-## Site Maintinenance
+## Site Maintenance
 Updating your site is good. How often you should update your site varies, when deciding how often to update it there are some things that would be good to track. If your site is for goods/services think about how often people return to the site, and how often are your stock/service/prices changing. For information, how often the subject is updated, and how often people will return to your site for more information.
 
 ## Site Design
