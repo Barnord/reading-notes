@@ -1,4 +1,4 @@
-# Learning Notes
+# Reading Notes
 
 Hello, my name is Ben Arno, and this is where I will be keeping some notes for my code fellows bootcamps. You can find my Github Portfolio [here](https://github.com/Barnord).
 
@@ -14,5 +14,11 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 
 
 ### Table of Contents
-[Reading Notes](markdown.md)
-[Read 01 assignment](learn-markdown.md)
+1. [Reading 1](markdown.md)
+2. [Reading 2](learn-markdown.md)
+3. [Reading 3](commandlinecheatsheet.md)
+4. [Reading 4](gitnotes.md)
+5. [Reading 5]()
+6. [Reading 6]()
+7. [Reading 7]()
+8. [Reading 8]()
