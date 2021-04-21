@@ -25,3 +25,6 @@ A text editor doesn't need to have all, or even any of those things, but they do
 
 to interact with a directory with spaces in the name use quotes (single or double) or type a backslash before the space
 a . before a file or folder indicates that that item is hidden, .file.txt would be a hidden file.
+
+
+[<==Back](README.md)

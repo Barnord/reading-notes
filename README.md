@@ -14,11 +14,11 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 
 
 ### Table of Contents
-1. [Reading 1](markdown.md)
-2. [Reading 2](learn-markdown.md)
-3. [Reading 3](commandlinecheatsheet.md)
-4. [Reading 4](gitnotes.md)
-5. [Reading 5]()
+1. [Strangely empty page?](markdown.md)
+2. [Markdown](learn-markdown.md)
+3. [Command Line](commandlinecheatsheet.md)
+4. [Git](gitnotes.md)
+5. [HTML](html.md)
 6. [Reading 6]()
 7. [Reading 7]()
 8. [Reading 8]()

@@ -66,3 +66,6 @@ For cloned repos Git gives the name origin to the origin server, and main to you
 ### Seeing Your Remotes
 ```git remote``` shows you short names like "origin," of all specified remote handles.
 ```git remote -v``` views remote URLs by their corresponding short names.
+
+
+[<==Back](README.md)
