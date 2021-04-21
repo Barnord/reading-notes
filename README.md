@@ -19,6 +19,6 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 3. [Command Line](commandlinecheatsheet.md)
 4. [Git](gitnotes.md)
 5. [HTML](html.md)
-6. [Reading 6]()
+6. [CSS](css.md)
 7. [Reading 7]()
 8. [Reading 8]()
