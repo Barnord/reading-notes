@@ -22,3 +22,5 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 6. [CSS](css.md)
 7. [Javascript Intro](js-intro.md)
 8. [Computer Architecture and Logic](gates.md)
+9. [Programming in Javascript](program-js.md)
+10. [Operators and Loops](fun-part.md)
