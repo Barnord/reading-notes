@@ -16,7 +16,7 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 ### Table of Contents
 
 #### Code Fellows 201 Course
-1. [Basics of HTML, CSS, and JS](201d2-notes.md)
+1. [Objects & The DOM](objects.md)
 
 #### Code Fellows 102 Course
 1. [Strangely empty page?](markdown.md)
