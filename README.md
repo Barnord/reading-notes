@@ -15,6 +15,8 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 
 ### Table of Contents
 
+#### Code Fellows 410 .NET Course
+
 #### Code Fellows 301 Course
 1. [Diversity Reading](diversity.md)
 
