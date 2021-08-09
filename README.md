@@ -27,6 +27,14 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 9. [LINQ]
 10. [Stacks and Queues]
 11. [ERDS](erds.md)
+12. [Entity Framework Core and APIs]
+13. [Dependency Injection]
+14. [Routing and Navigation Properties]
+15. [Trees]
+16. [Refactoring with DTOs](dataTransferObjects.md)
+17. [Cookie Readings](testingSwaggerDeployments.md)
+18. [Identity](identity.md)
+19. [Roles, Claims, and JWT Tokens](rolesClaimsJWTTokens.md)
 
 #### Code Fellows 301 Course
 1. [Diversity Reading](diversity.md)
