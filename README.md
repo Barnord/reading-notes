@@ -17,7 +17,7 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 
 #### Code Fellows 410 .NET Course
 1. [Debugging](debugging.md)
-2. [Unit Tests and Documentation]
+2. [Unit Tests and Documentation](testing.md)
 3. [System.I.O]
 4. [Classes and Objects]
 5. [Linked Lists]
@@ -35,6 +35,7 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 17. [Cookie Readings](testingSwaggerDeployments.md)
 18. [Identity](identity.md)
 19. [Roles, Claims, and JWT Tokens](rolesClaimsJWTTokens.md)
+20. [React, Day 1](reactd1.md)
 
 #### Code Fellows 301 Course
 1. [Diversity Reading](diversity.md)
