@@ -18,10 +18,9 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 #### Code Fellows 410 .NET Course
 1. [Debugging](debugging.md)
 2. [Unit Tests and Documentation](testing.md)
-3. [System.I.O]
-4. [Classes and Objects]
-5. [Linked Lists]
-6. [OOP Principles]
+3. [System.I.O](systemio.md)
+4. [Classes and Objects](classes.md)
+5. [OOP Principles](oop.md)
 7. [Interfaces]
 8. [Collections]
 9. [LINQ]
