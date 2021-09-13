@@ -34,7 +34,12 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 17. [Cookie Readings](testingSwaggerDeployments.md)
 18. [Identity](identity.md)
 19. [Roles, Claims, and JWT Tokens](rolesClaimsJWTTokens.md)
-20. [React, Day 1](reactd1.md)
+20. [Graphs](graphs.md)
+21. [React, Day 1](reactd1.md)
+22. [React, Day 2]()
+23. [React, Day 3](reactd3.md)
+24. [Unity, Looking Around](unity2.md)
+25. [Unity, Player Movement](unity1.md)
 
 #### Code Fellows 301 Course
 1. [Diversity Reading](diversity.md)
