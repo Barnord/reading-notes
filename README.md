@@ -15,6 +15,9 @@ To me the ***Growth Mindset*** appears to be largely letting go of negative emot
 
 ### Table of Contents
 
+#### Continued Learning
+1. [Wrapper Classes](wrapper.md)
+
 #### Code Fellows 410 .NET Course
 1. [Debugging](debugging.md)
 2. [Unit Tests and Documentation](testing.md)
